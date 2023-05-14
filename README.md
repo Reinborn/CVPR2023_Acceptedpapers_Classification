@@ -17,6 +17,9 @@
 - [DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization](https://threedle.github.io/DA-Wand/)
 ## Appearance Modeling & BRDFs
 - [NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images](https://github.com/aejion/NeuFace)
+- DiffusionRig: Learning Personalized Priors for Facial Appearance Editing Poster Session WED-PM
+Zheng Ding · Cecilia Zhang · Zhihao Xia · Lars Jebe · Zhuowen Tu · Xiuming Zhang
+
 ## Faster training
 ### voxel/sparse-voxel/octree-based method
 - 
